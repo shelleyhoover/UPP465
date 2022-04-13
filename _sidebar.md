@@ -1,5 +1,6 @@
 - **[Syllabus](README.md)**
 - **[Required Project Log Info and Map Elements](Lessons/LogMapElements.md)
+- **[Useful tools and resources](Lessons/classlinks.md)
 - **Weekly Class Information**
   - [Week 1](Lessons/Lesson1.md)
   - [Week 2](Lessons/Lesson2.md)
