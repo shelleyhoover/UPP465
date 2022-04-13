@@ -1,11 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
-# Week 7
+# Required Project Log and Map Elements 
 
-## [**Slides**](https://shelleyhoover.github.io/UPP4652021/Slides/revealjsSlides/week7.html)
-
-
-
-## Project 2
+## For every assignment & project, a detailed project log and map are required with the following information: 
 
 **Adding & Manipulating GeoJSON Data with Leaflet & JavaScript**
 
