@@ -1,7 +1,9 @@
 <!-- 
 template from: https://github.com/Make-School-Courses/Syllabus-Template -->
 
-# Web GIS - UPP 465 2022
+# Web GIS 
+
+Welcome to UPP465 - Web GIS! 
 
 ## Course Description
 Web GIS is a popular term commonly used to refer to "online maps". While professional definitions are usually much more technical, "online maps" is a good starting point.
@@ -10,9 +12,12 @@ The goal of this course is to enable students to build their own online maps usi
 
 We will also survey crowdsourced mapping tools such as Open Street Maps, as well as other propriety web mapping tools. While learning these tools, we will discuss current topics concerning online maps such as privacy, how maps can misrepresent information, or how they can effectively engage stakeholder groups.  
 
+**Course Instruction**: Shelley Hoover (shhoover@uicedu)
+**Course Office Hours**: Office hourse by request. 
+
 ## Prerequisites:  
 
-Students are expected to have basic familiarity with GIS terms and concepts prior to taking this course. Students with no previous GIS exposure have been successful in the course with additional work.  If you have no prior GIS experience, please contact the instructor (Shelley Hoover, shhoover@uic.edu). 
+Students are expected to have basic familiarity with GIS terms and concepts prior to taking this course. Students with no previous GIS exposure have been successful in the course with additional work.  If you have no prior GIS experience, please contact the instructor. 
 
 Students are not expected to have any prior programming knowledge and will learn the basics of HTML, CSS, and JavaScript in the course.  
 
@@ -40,15 +45,15 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 ## Assignments 
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
 
-|                        Assignment                         | Points | Date Assigned |   Due Date   | Blackboard Feedback Due Date   | 
+|                        Assignment                         | Points | Date Assigned |   Due Date (11:59pm)  | Blackboard Feedback Due Date (11:59pm)   | 
 |:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|:-------------:|
-| [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21 (11:59pm)  | Friday, June 24 (11:59pm)  |
-| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)         | 15 | Wed, June 22  |  Tue, June 29 (11:59pm)  | Friday, July 1 (11:59pm)  |
-| [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)           | 15 | Wed, June 29  |  Tue, July 5 (11:59pm)   | Friday, July 8 (11:59pm)   |
-| [4. AGOL Crowdsourcing App](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4?id=assignment) | 20 | Wed, July 6   |  Tues, July 12 (11:59pm) | Friday, July 15 (11:59pm) |
-| [5. Simple Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19 (11:59pm)  | Friday, July 22 (11:59pm)  |
-| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26 (11:59pm) | Friday, July 29 (11:59pm) |
-| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 (6pm)     | Not required     |
+| [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson1?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21   | Friday, June 24  |
+| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2?id=assignment)         | 15 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
+| [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3?id=assignment)           | 15 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
+| [4. AGOL Crowdsourcing App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson4?id=assignment) | 20 | Wed, July 6   |  Tues, July 12  | Friday, July 15  |
+| [5. Simple Website](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Friday, July 22  |
+| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Friday, July 29  |
+| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 (6pm) | Not required     |
 
 
 
@@ -74,7 +79,7 @@ While students are encouraged to attend lectures, there is no attendance require
 Students are expected to provide feedback concerning: 
 
 1. What does this map tell you?
-2. What was your impression of this map? Does it draw you in? Does it overwhelm you? 
+2. What was your impression of this map? Does it draw you in? Is the message clear or muddled? 
 3. Who do you think this map is for? 
 
 
