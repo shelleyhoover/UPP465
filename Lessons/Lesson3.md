@@ -2,7 +2,7 @@
 # Week 3 - ArcGIS Online Applications
 
 <!-- 
-➡️ [**Week 3 Lecture Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week3.html)
+➡️ [**Week 3 Lecture Slides**](https://shelleyhoover.github.io/UPP465/Slides/week3.html)
 
 
 ## Assignment

@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 5
 
-<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week5.html)
+<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week5.html)
 
 ## Assignment
 **Create a webpage with your AGOL map**
