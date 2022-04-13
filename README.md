@@ -24,41 +24,45 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 **Class Times:** Wednesdays 6:00pm–8:30pm 
 
-**Course Type** Hybrid - Weeks 1-5 in-person (2201 AE Hall); Arranged Online meetings Weeks 6-8 
+**Course Type** Hybrid - Weeks 1-5 in-person (2201 AE Hall). Online arrangements for weeks 5-8 will be discussed Week 1.  
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, June 15        | [Introduction to course & web maps](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson1) |
-|  2 |  Wed, June 22        |[ Create a web map with AGOL](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2) |
-|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3) |
-|  4 |  Wed, July 6         | [AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4) |
-|  5 |  Wed, July 13        |[HTML & CSS - Make a Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5) |
-|  6 |  Wed, July 20        | [Create a web map with Leaflet](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6) |
-|  7 |  Wed, July 27        | [Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7) |
-|  8 |  Wed, August 3       | [Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson8)|
+| Class |          Date          |                 Topics                  |                 Location                 | 
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  Wed, June 15        | [Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson1) | 2201 AE Hall |
+|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2) | 2201 AE Hall |
+|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3) | 2201 AE Hall |
+|  4 |  Wed, July 6         | [AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4) | 2201 AE Hall |
+|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5) | 2201 AE Hall |
+|  6 |  Wed, July 20        | [Create a web map with Leaflet](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6) | Arranged Online |
+|  7 |  Wed, July 27        | [Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7) | Arranged Online |
+|  8 |  Wed, August 3       | [Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson8)| Arranged Online or in-person |
 
 ## Assignments 
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
 
 |                        Assignment                         | Points | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|
-| [AGOL Web Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2?id=assignment)        | 10 | Wed, June 23  |  Tue, June 29 (11:59pm) |
-| [AGOL Web App & Story Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)          | 15 |  Wed, June 30    |  Tue, July 6 (11:59pm)  |
-| [AGOL Project](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4?id=assignment)                     | 25 |       Wed, July 7    |  Tues, July 13 (11:59pm)  |
-| [Simple Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5?id=assignment)                     | 10 |      Wed, July 14     | Tues, July 20 (11:59pm) |
-| [Static Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment)                   | 15 |  Wed, July 21     |  Tues, July 27 (11:59pm)  |
-| [Leaflet Project](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7?id=assignment)                    | 25 |       Wed, July 28     |  Wed, August 4 (6pm)  |
+| [AGOL Web Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2?id=assignment)        | 5 | Wed, June 15  |  Tue, June 21 (11:59pm) |
+| [AGOL Story Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)          | 10 |  Wed, June 22    |  Tue, June 29 (11:59pm)  |
+| [AGOL Web App](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)          | 10 |  Wed, June 29    |  Tue, July 5 (11:59pm)  |
+| [AGOL Project](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4?id=assignment)                     | 20 |       Wed, July 6    |  Tues, July 12 (11:59pm)  |
+| [Simple Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5?id=assignment)                     | 10 |      Wed, July 13     | Tues, July 19 (11:59pm) |
+| [Static Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment)                   | 15 |  Wed, July 20     |  Tues, July 26 (11:59pm)  |
+| [Leaflet Project](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7?id=assignment)                    | 20 |       Wed, July 27     |  Wed, August 3 (6pm)  |
 
 
 ## Evaluation
-Student performance will be evaluated on the basis of four homework assignments and two projects. Assignments will be graded according to the rubric of each assignment. Additionally the instructor will be evaluating map design, functionality, and that the student demonstrates an understanding of the content. 
+Student performance will be evaluated on the basis of five homework assignments, two projects, and participation. Assignments will be graded according to the rubric of each assignment. Additionally the instructor will be evaluating map design, functionality, and that the student demonstrates an understanding of the content. 
 
 |  Total |                  |
 |:-----:|:----------------------:|
-|  20 points |  HW 1 & 3 x 10 points each       
-|  30 points |  HW 2 & 4 x 15 points each       
-|  50 points |  2 projects x 25 points each       
+|  10 points |  Participation       
+|  50 points |  Homework       
+|  40 points |  2 projects x 20 points each       
 |  100 points |  Total       | 
+
+## Late Policy
+Coursework is expected to be submitted prior to the deadline. Deductions will be made for work submitted after the deadline, unless pre-arranged with the instructor.  Arrangements must be made prior to the deadline. 
 
 ##  Information & Tutorials
 
