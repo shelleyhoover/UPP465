@@ -28,14 +28,14 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 | Class |          Date          |                 Topics                  |                 Location                 | 
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Wed, June 15        | [Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson1) | 2201 AE Hall |
-|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2) | 2201 AE Hall |
-|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3) | 2201 AE Hall |
-|  4 |  Wed, July 6         | [AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson4) | 2201 AE Hall |
-|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5) | 2201 AE Hall |
-|  6 |  Wed, July 20        | [Create a web map with Leaflet](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6) | Arranged Online |
-|  7 |  Wed, July 27        | [Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7) | Arranged Online |
-|  8 |  Wed, August 3       | [Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson8)| Arranged Online or in-person |
+|  1 |  Wed, June 15        | [Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson1) | 2201 AE Hall |
+|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2) | 2201 AE Hall |
+|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3) | 2201 AE Hall |
+|  4 |  Wed, July 6         | [AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson4) | 2201 AE Hall |
+|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson5) | 2201 AE Hall |
+|  6 |  Wed, July 20        | [Create a web map with Leaflet](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson6) | Arranged Online |
+|  7 |  Wed, July 27        | [Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson7) | Arranged Online |
+|  8 |  Wed, August 3       | [Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson8)| Arranged Online or in-person |
 
 ## Assignments 
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
