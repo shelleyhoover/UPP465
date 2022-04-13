@@ -95,7 +95,9 @@ Student performance will be evaluated on the basis of five homework assignments,
 
 
 **Required Map Elements**
+
 Each homework assignment/project will contain at least one map. In addition to the specific requirements detailed on the rubric, all of them are required to include: 
+
 1. Meaningful Title
       - Map title should decribe what is being visualized and generally include the topic, geography, and dates. Do not use map titles such as "UPP 465 HW 1"  
 2. Clear, useful pop-ups
