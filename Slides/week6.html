@@ -1,0 +1,597 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Week 6</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+<!-- Lecture Intro -->
+
+				<section>
+					<h3>Week 6</h3>
+					<h3>JavaScript & Leaflet</h3>
+				</section>
+
+				<section>
+					<p>Overview of Today's Class</p>
+					<ul>
+						<li>Presentations con't</li>
+						<li>Some homework notes</li>
+						<li>JavaScript (the 5-minute version)</li>
+						<li>Leaflet Part 1</li>
+						<li>Homework</li>
+					</ul>
+				</section>
+
+<!-- Homework Notes --> 
+<section>
+	<p>Homework Notes</p>
+		<ul>
+			<li>Set div width to avoid gigantic map</li>
+			<li>Github version control</li>
+			<li>Linking to external CSS file</li>
+		</ul>
+</section>
+<!-- JavaScript --> 
+
+<section> 
+	<p> JavaScript is a programming language used to control the actions & behaviours of webpages </p> 
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Similar to CSS, JavaScript calls elements in HTML to manipulate</p> 
+	<p style = "font-size: 24px"> HTML only: </p>
+	<img src="pictures/week6/js1.png" > 
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Add some JavaScript: </p>
+	<img src="pictures/week6/js2.png" > 
+	<p style = "font-size: 16px"><a href = "https://github.com/shelleyhoover/upp465example/blob/master/week6/index_methodsUserInput.html" target = 'blank'> See Code Here </a></p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Also similar to CSS, you can include JS in multiple ways</p>
+	<ul>
+		<li style = "font-size: 24px">Added to the body between &lt;script&gt;&lt;/script&gt; tags</li>
+		<li style = "font-size: 24px">In the head between &lt;script&gt;&lt;/script&gt; tags </li>
+		<li style = "font-size: 24px"> Linked in the head to an external file: <br>
+		 &lt;script src="scripts/nameoffile.js"&gt;&lt;/script&gt; </li>
+
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> JavaScript does a lot more than manipulating HTML elements though!</p> 
+</section>
+
+<!-- Object Oriented Programming-->
+
+<section> 
+	<p style = "font-size: 24px"> JavaScript is a style of programming called Object-Oriented Programming. (OOP) </p> 
+	<p style = "font-size: 24px"> As the name implies, it is a type of computer programming centered on the concept of “objects.”  </p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Warning: you're going to hear the word "object" a lot. </p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Primitive types in JavaScript. Everything else is an object. </p>
+					<table>
+						<tbody>
+							<tr><th style = "font-size: 16px">String </th>
+								<td>
+								<li style = "font-size: 16px">Textual data: "I have 16 dogs" </li> 
+								</td>
+							</tr>
+
+							<tr><th style = "font-size: 16px">Number </th>
+								<td>
+								<li style = "font-size: 16px">Numbers </li> 
+								</td>
+							</tr>
+
+							<tr><th style = "font-size: 16px">Boolean </th>
+								<td>
+								<li style = "font-size: 16px">True or false. More on this next week</li>
+								</td>
+							</tr>
+
+							<tr><th style = "font-size: 16px">Null </th>
+								<td>
+									<li style = "font-size: 16px">Value is null</li>
+								</td>
+							</tr>
+
+							<tr><th style = "font-size: 16px">Undefined </th>
+								<td>
+									<li style = "font-size: 16px">Does not have a value</li>
+								</td>
+							</tr>
+
+							<tr><th style = "font-size: 16px">Symbol </th>
+								<td>
+									<li style = "font-size: 16px">Something for another day </li>
+								</td>
+							</tr>
+
+						</tbody>
+					</table>
+</section>
+
+
+
+<section> 
+	<p style = "font-size: 24px"> In JavaScript, objects are used to store stuff* </p>
+	<img src="pictures/week6/oop1.png" > 
+	<p style = "font-size: 16px"><em> *not the technical term </em></p>
+</section>
+
+<section> 
+	<img src="pictures/week6/oop2.png" > 
+</section>
+<!-- Getting Started with JS-->
+
+
+<section> 
+	<p style = "font-size: 24px">JavaScript concepts we will review to prepare for Leaflet <br>
+		<em>but this is far from comprehensive </em>
+	 </p>
+	
+	<ul> 
+		<li style = "font-size: 16px">Variables</li>
+		<li style = "font-size: 16px">Numbers</li>
+		<li style = "font-size: 16px">Concatenating Strings </li>
+		<li style = "font-size: 16px">Objects </li>
+		<li style = "font-size: 16px">Accessing properties in objects</li>
+		<li style = "font-size: 16px">Arrays</li>
+		<li style = "font-size: 16px">Functions</li>
+		<li style = "font-size: 16px">Functions in objects</li>
+		<li style = "font-size: 16px">Methods</li>
+			</ul> 
+
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Variables are used to store data values. </p>
+	<img src="pictures/week6/js3.png" > 
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> The variable named “x” has a value of 5 </p>
+	<p style = "font-size: 24px"> The variable named “name” has a value of Shelley </p>
+	<img src="pictures/week6/js4.png" > 
+</section>
+
+<section> 
+	<p> "var" versus "let" versus "const" </p>
+	<p style = "font-size: 24px"> JavaScript has changed <em> a lot </em> in the last five years.  “Var” has fallen out of favor for *reasons. The variable declarations "let" & "const" are now preferred. </p>
+	<p style = "font-size: 24px">Tutorials provided by leaflet still use "var", so I will use it for this course </p>
+	<p style = "font-size: 16px"><a href = "https://codeburst.io/javascript-var-let-or-const-which-one-should-you-use-2fd521b050fa" target = 'blank'>
+		*see reasons </a></p>
+
+</section>
+
+							
+<section> 
+	<p style = "font-size: 24px"> Number variables</p>
+	<p style = "font-size: 24px">You can manipulate numerical values through variables (think algebra) </p>
+	<img src="pictures/week6/js5.png" > 
+	<p style = "font-size: 16px"><a href = "https://www.w3schools.com/js/js_operators.asp"  target = 'blank'>
+		List of numerical operators in JS </a></p>
+</section>
+				
+<section> 
+	<p style = "font-size: 24px"> Concatenate String Variables </p>
+	<img src="pictures/week6/js6.png" > 
+	<p style = "font-size: 16px"><a href = "https://github.com/shelleyhoover/upp465example/blob/master/week6/index_concatenate.html" target = 'blank'> See Code Here </a></p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Concatenate String Variables </p>
+	<img src="pictures/week6/js7.png" > 
+</section>
+
+
+<section> 
+	<p style = "font-size: 24px">Concatenating Numbers & Strings </p>
+	<img src="pictures/week6/js8.png" > 
+	<p style = "font-size: 16px">
+		Note the output is a string!</p>
+</section>
+
+<section> 
+	<p>Objects (again)</p>
+	<ul>
+	<li style = "font-size: 24px">Objects are variables that contains multiple values </li>
+	<li style = "font-size: 24px">The values are written as key:value pairs </li>
+	<li style = "font-size: 24px">Values are referred to as Properties </li>
+	</ul>
+	<img src="pictures/week6/js9.png" > 
+
+	<p style = "font-size: 16px">
+		I'm a monster that forgot a comma after "blue" - don't forget that comma! </p>
+		<p style = "font-size: 16px"><a href = "https://github.com/shelleyhoover/upp465example/blob/master/week6/index_objects.html" target = 'blank'> See Code Here </a></p>
+</section>
+
+<section> 
+	<p>Accessing properties in objects </p>
+	<ul>
+	<li style = "font-size: 24px"><em>objectName.property</em></li>
+	<li style = "font-size: 24px"><em>objectName["property"]</em></li>
+	<img src="pictures/week6/js10.png" > 
+	<p style = "font-size: 16px">Other fun things you can do with object properties. Start<a href = "https://www.w3schools.com/js/js_object_properties.asp"  target = 'blank'> here </a></p>
+</section>
+
+<section> 
+	<p>Arrays </p>
+	<ul>
+	<li style = "font-size: 24px">Used to store multiple values in a variable</li>
+	<li style = "font-size: 24px">Unlike objects, there is no value: property pairing in arrays </li>
+	<li style = "font-size: 24px">Data to be used in Leaflet is often stored in arrays </li>
+	</ul>
+	<img src="pictures/week6/js11.png">
+	<p style = "font-size: 16px"><a href = "https://github.com/shelleyhoover/upp465example/blob/master/week6/index_arrays.html" target = 'blank'> See Code Here </a></p>
+
+	<p style = "font-size: 16px">Learn more about Arrays<a href = "https://www.w3schools.com/js/js_arrays.asp"  target = 'blank'> here </a></p>
+</section>
+
+<section> 
+	<p>Functions</p>
+	<p style = "font-size: 24px">A block of code designed to perform a certain task. </p>
+	<img src="pictures/week6/js12.png">
+	<p style = "font-size: 16px"><a href = "https://github.com/shelleyhoover/upp465example/blob/master/week6/index_functions.html" target = 'blank'> See Code Here </a></p>
+</section>
+
+<section> 
+	<img src="pictures/week6/js13.png">
+</section>
+
+<section> 
+	<img src="pictures/week6/js14.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Functions as properties of an object </p>
+	<ul>
+	<li style = "font-size: 24px">In a function definition, this refers to the "owner" of the function.</li>
+	<li style = "font-size: 24px">In the example this is the function “fullName” belongs to the object “instructor” </li>
+	</ul>
+	<img src="pictures/week6/js15.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Functions Notes</p>
+	<img src="pictures/week6/js12.png" height = 200px>
+	<ul>
+	<li style = "font-size: 20px">Functions do not necessarily need parameters (but  you need the parentheses – they will just be empty)</li>
+	<li style = "font-size: 20px">Functions do not need a name (anonymous function) </li>
+	<li style = "font-size: 20px">Functions are not executed immediately – they need to be called </li>
+	</ul>
+</section>
+
+<section> 
+	<p>Methods</p>
+	<ul>
+	<li style = "font-size: 24px">Methods are actions to be performed</li>
+	<li style = "font-size: 24px">Functions are methods </li>
+	<li style = "font-size: 24px">JavaScript has some built-in methods </li>
+	<li style = "font-size: 24px">Different objects have different methods</li>
+	<li style = "font-size: 24px">For example, .prompt & .getElementById are methods </li>
+	</ul>
+	<img src="pictures/week6/js16.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Reference: Built in Methods </p>
+	<ul>
+	<li style = "font-size: 24px"><a href = "https://www.w3schools.com/js/js_string_methods.asp"  target = 'blank'>String Methods </a></li>
+	<li style = "font-size: 24px"><a href = "https://www.w3schools.com/js/js_number_methods.asp"  target = 'blank'>Numbers Methods </a></li>
+	<li style = "font-size: 24px"><a href = "https://www.w3schools.com/js/js_array_methods.asp"  target = 'blank'>Array Methods </a></li>
+	<li style = "font-size: 24px"><a href = "https://www.w3schools.com/js/js_date_methods.asp"  target = 'blank'>Date Methods </a></li>
+	</ul>
+</section>
+
+<section> 
+	<p> Some other things before we move on to Leaflet </p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px">When starting a new HTML document in sublime text...</p>
+	<ol>
+	<li style = "font-size: 24px">Check that you’re writing in HTML (click for language options if not) </li>
+	<li style = "font-size: 24px">Type “&lt;html” and hit enter <br>
+	Boilerplate HTML language will popup (sorry for keeping this a secret last week)</li>
+
+	</ol>
+	<img src="pictures/week6/other1.png">
+</section>
+
+
+<section> 
+	<p style = "font-size: 24px">Comments in JavaScript</p>
+	<p> // </p>
+		<img src="pictures/week6/other2.png">
+	<p style = "font-size: 24px"> Multiline: /*...*/ </p>
+
+	<img src="pictures/week6/other3.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Notes about naming things in JavaScript </p>
+	<ol>
+	<li style = "font-size: 24px">JavaScript is case sensitive <br>
+		shelleyhoover & shelleyHoover are different
+	 </li>
+	 <li style = "font-size: 24px">Standard naming convention: camel Casing <br>
+	 	First word is lower case, subsequent words are upper case with no spacing between words: <br>
+	 	shelleyHoover <br>
+	 	myMapFunction
+	<li style = "font-size: 24px">First character cannot be a number</li>
+	<li style = "font-size: 24px">Hyphens are not allowed (used for subtraction)</li>
+	<li style = "font-size: 24px">Underscores are allowed </li>
+
+	</ol>
+</section>
+
+<section> 
+	<p style = "font-size: 24px">JavaScript Naming: Reserved Words </p>
+	<p style = "font-size: 24px">Certain words are reserved for built-in keywords or methods & cannot be used to name variables or functions</p>
+	<p style = "font-size: 24px"><a href = "https://www.w3schools.com/js/js_reserved.asp"  target = 'blank'>See full list here</a></p>
+	<img src="pictures/week6/other4.png">
+</section>
+
+<section> 
+	<p> Finally, Leaflet! </p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px"> Reminder, Leaflet is a JavaScript library used for web mapping </p>
+	<p style = "font-size: 24px">A JavaScript library is a library of pre-written JavaScript - so you do not have to write everything from scratch! </p>
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Steps to creating your first Leaflet Map </p>
+	<p style = "font-size: 24px"><a href = "https://shelleyhoover.github.io/upp465example/"  target = 'blank'>Example</a></p>
+	<ol>
+	<li style = "font-size: 24px">Set up your HTML file </li>
+		<ul>
+			<li style = "font-size: 16px"> Add a div for your map </li>
+			<li style = "font-size: 16px"> Link the Leaflet Library to your HTML file </li>
+		</ul>
+	<li style = "font-size: 24px">Initialize your map</li>
+	<li style = "font-size: 24px">Add Leaflet Basemap Layers</li>
+	<li style = "font-size: 24px">Manually Add Features </li>
+	<li style = "font-size: 24px">Style Features</li>
+	<li style = "font-size: 24px">Add pop-ups </li>
+
+	</ol>
+</section>
+
+<section>
+	<p> Step 1: Set up your HTML file </p>
+	<p style = "font-size: 24px">Start from last week's hw and remove the AGOL map (or create a new webpage) </p>
+</section>
+
+<section>
+	<p> Add Leaflet to document </p>
+	<p style = "font-size: 24px">Similar to google fonts, link Leaflet in the head of your HTML file </p>
+	<p style = "font-size: 24px"><a href = "https://leafletjs.com/examples/quick-start/"  target = 'blank'>Copy the following code into the head section of your HTML document </a></p>
+	<img src="pictures/week6/leaflet1.png">
+</section>
+
+<section>
+	<p> Create a div for your map </p>
+	<img src="pictures/week6/leaflet2.png">
+	<p> Add Script tags to include leaflet </p>
+	<img src="pictures/week6/leaflet3.png">
+
+</section>
+
+<section> 
+	<p>Step 2: Initialize your map </p>
+	<ol>
+	<li style = "font-size: 24px">Create variable (titled “myMap” here, can be anything) </li>
+	<li style = "font-size: 24px">Call leaflet method “map” (L.map()), and tell leaflet to show it in the map div</li>
+	<li style = "font-size: 24px">Use “setView” to set the coordinates the map center on when the webpage opens, and the zoom level</li>
+	</ol>
+	<img src="pictures/week6/leaflet4.png">
+</section>
+
+<section> 
+	<p>Whats going on here? </p>
+	<img src="pictures/week6/leaflet5.png">
+		<p style = "font-size: 24px"><em>Lat/Long note: I have two decimal places here for visual clarity, but you can include many more. 5 decimals places will get you within a few feet of your exact point.</em> </p>
+</section>
+
+<section> 
+	<p>Reminder: Zoom Levels</p>
+	<img src="pictures/week6/leaflet6.png">
+		<p style = "font-size: 24px"><em>The higher the number, the more local the zoom. Most tile layers go to Zoom 18.</em> </p>
+</section>
+
+<section> 
+	<p>Step 3: Add Basemap</p>
+	<p style = "font-size: 24px"><a href = "https://leaflet-extras.github.io/leaflet-providers/preview/"  target = 'blank'>Collection of basemap layers</a></p>
+	<img src="pictures/week6/leaflet7.png">
+</section>
+
+<section> 
+	<p>To use one of these basemaps: </p>
+	<p style = "font-size: 24px"><a href = "https://github.com/leaflet-extras/leaflet-providers"  target = 'blank'>Copy & Paste link into head</a></p>
+	<img src="pictures/week6/leaflet8.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Copy the PLAIN JS into your script section</p>
+	<img src="pictures/week6/leaflet9.png" height = 250px> 
+	<img src="pictures/week6/leaflet11.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Now add the basemap to your map!</p>
+	<p>.addTo(map) </p>
+	<img src="pictures/week6/leaflet12.png">
+</section>
+
+<section> 
+	<p style = "font-size: 24px">Note, all are free. Some require registration</p>
+	<img src="pictures/week6/leaflet13.png">
+</section>
+
+<section> 
+	<p>Step 4: Manually Add Features </p>
+	<p style = "font-size: 24px">Next week we will go over GeoJSONs and more complicated data handling</p>
+	<img src="pictures/week6/features1.png">
+</section>
+
+<section> 
+	<p>Example: Marker Feature (point) </p>
+	<p style = "font-size: 24px">In your script section, under the map: 
+		<br> var marker = L.marker([lat,long]).addTo(mymap); </p>
+	<ol>
+	<li style = "font-size: 24px">Create a variable (var) </li>
+	<li style = "font-size: 24px">Name variable </li>
+	<li style = "font-size: 24px">Set variable to call leaflet method “marker" (L.marker)</li>
+	<li style = "font-size: 24px">Set the coordinates of the point (([lat,long])) </li>
+	<li style = "font-size: 24px">Add to your map (.addTo(mymap);) </li>
+	</ol>
+	<img src="pictures/week6/features2.png" height = 400px>
+</section>
+
+<section> 
+	<p>Example: Polygon Feature </p>
+	<p style = "font-size: 24px">In your script section, under the map: 
+		<br> var polygon = L.polygon([[lat,long],[lat,long],[lat,long]]).addTo(mymap);
+ </p>
+	<ol>
+	<li style = "font-size: 24px">Create a variable (var) </li>
+	<li style = "font-size: 24px">Name variable </li>
+	<li style = "font-size: 24px">Set variable to call leaflet method “polygon" (L.polygon)</li>
+	<li style = "font-size: 24px">Set the coordinators of the vertices (as many as necessary) (([lat,long],[lat,long])) </li>
+	<li style = "font-size: 24px">Add to your map (.addTo(mymap);) </li>
+	</ol>
+	<img src="pictures/week6/features3.png" height = 300px>
+</section>
+
+				<section>
+					<p>Circle, Marker, Line, and Polygon features: </p>
+					<table>
+						<tbody>
+							<tr>
+								<th><p style = "font-size: 24px">Leaflet Feature</th>
+								<th><p style = "font-size: 24px">Default Style</p></th>
+								<th><p style = "font-size: 24px">Geometry Type</p></th>
+								<th><p style = "font-size: 24px">Leaflet Code</p></th>
+							</tr>
+							<tr>
+								<td><p style = "font-size: 20px">Marker</p></td>
+								<td><img src="pictures/week6/features4.png" height = 30px></td>
+								<td><p style = "font-size: 20px">Point</p></td>
+								<td><p style = "font-size: 16px">var marker = L.marker([lat,long],).addTo(map);
+								</p></td>
+							</tr>
+							<tr>
+								<td><p style = "font-size: 20px">Circle</p></td>
+								<td><img src="pictures/week6/features5.png" height = 30px></td>
+								<td><p style = "font-size: 20px">Point</p></td>
+								<td><p style = "font-size: 16px">var circle = L.circle([lat,long],).addTo(mymap);
+								</p></td>
+							</tr>
+							<tr>
+								<td><p style = "font-size: 20px">Polyline</p></td>
+								<td><img src="pictures/week6/features6.png" height = 30px></td>
+								<td><p style = "font-size: 20px">Line</p></td>
+								<td><p style = "font-size: 16px">var line = L.polyline([[lat,long], [lat,long], [lat,long]]) ]).addTo(mymap);
+								</p></td>
+							</tr>
+							<tr>
+								<td><p style = "font-size: 20px">Polygon</p></td>
+								<td><img src="pictures/week6/features7.png" height = 30px></td>
+								<td><p style = "font-size: 20px">Polygon</p></td>
+								<td><p style = "font-size: 16px">var polygon = L.polygon([ 
+								[lat,long], [lat,long], [lat,long] ]).addTo(mymap);
+								</p></td>
+							</tr>
+							
+						</tbody>
+					</table>
+				</section>
+
+<section> 
+	<p>Use an image for marker features</p>
+	<ol>
+		<li style = "font-size: 24px">Create a marker icon variable</li>
+			<ol>
+				<li style = "font-size: 24px">Link to icon image</li>
+				<li style = "font-size: 24px">Set Icon Size</li>
+			</ol>
+		<li style = "font-size: 24px">Create a marker variable</li>
+		<li style = "font-size: 24px">Set your marker variable to use the icon variable</li>
+	</ol>
+	<img src="pictures/week6/features8.png">
+</section>
+
+<section> 
+	<p>Style circle, polyline, and polygon features</p>
+	<p style = "font-size: 16px"><em>Add in {style properties} after you set your [vertices]. Example:</em> <br>
+		var polygon = L.polygon([<br>
+		    [41.66, -87.11],[41.73, -87.06],[41.96, -87.31],[41.41, -87.47],
+				],<b> <br>{ 
+				  color: 'purple', <br>
+  					fillColor: 'green', <br>
+  				fillOpacity: .11, <br>
+}).addTo(map); </b>
+</p>
+	<img src="pictures/week6/features9.png">
+</section>
+
+<section> 
+	<p>Add pop-ups</p>
+	<p style = "font-size: 24px">After you add your feature to the map, add a bind popup method:</p>
+		<p style = "font-size: 16px"> .bindPopup(<em>“What you want your popup to say”</em>); 
+
+</p>
+	<img src="pictures/week6/features10.png">
+</section>
+
+<section> 
+	<p><a href = "https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment" target = 'blank'>Homework 4</a></p>
+</section>
+
+<section> 
+	<p>Questions?</p>
+</section>
+
+</div>
+</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
