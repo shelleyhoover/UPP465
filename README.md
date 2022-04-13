@@ -63,11 +63,10 @@ Student performance will be evaluated on the basis of five homework assignments,
 **Required Project Log Content**
 
 **1. Project Objectives**
-
-    -Assignments require students use a specific visualization method, but is not prescriptive in what is being visualized.  Students are expected to describe what they are visualizing in their project log and why.
-    -Example: "This project uses ArcGIS online to visually compare the City of Chicago's Hardship Index to the City of Chicago's Covid-19 Vulnerability Index". 
-    -Describe why you're doing it. "For policy makers to do x" or "For community members to do x" - It may be the same data, but these two stakeholder groups will need very different visualizations!  
-    -"Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but in fancy talk that would be "an exploratory comparison of x & y" - Again, this is a very important step in spatial analysis but results in a very different visualization than for an external stakeholder group.  
+      - Assignments require students use a specific visualization method, but is not prescriptive in what is being visualized.  Students are expected to describe what they are visualizing in their project log and why.
+      - Example: "This project uses ArcGIS online to visually compare the City of Chicago's Hardship Index to the City of Chicago's Covid-19 Vulnerability Index". 
+      - Describe why you're doing it. "For policy makers to do x" or "For community members to do x" - It may be the same data, but these two stakeholder groups will need very different visualizations!  
+      - "Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but in fancy talk that would be "an exploratory comparison of x & y" - Again, this is a very important step in spatial analysis but results in a very different visualization than for an external stakeholder group.  
 
 **2. Data**
 
@@ -92,7 +91,7 @@ Student performance will be evaluated on the basis of five homework assignments,
       -Strongly Recommended: Describe where you struggled and what you did to overcome it/instead of it.  Maybe in the future you'll figure out a way to do it as you initially wanted, or you'll come across the issue again and wish you remembered what you did before, or in the future you might want an answer to "Why the f- did I do that?" 
 
   **4. The final product**
-  
+
       -All of your assignments/projects will have a weblink.  Include the URL to your web map. 
       -Include a screenshot of the final map. This is for you incase AGOL/your computer/the world crashes. 
       -Recommended: Screenshots of important features. This is for future you. Programs can change and your settings might break, it's good to remember what it did at one point and to identify what needs to be updated.  
