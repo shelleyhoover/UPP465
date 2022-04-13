@@ -78,7 +78,7 @@ Students are expected to provide feedback concerning:
 3. Who do you think this map is for? 
 
 |                        Assignment                         | Assignment Due Date | Blackboard Feedback Due Date   | 
-|:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|
+|:---------------------------------------------------------:|:-------------:|:------------:|
 | [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2?id=assignment)          | June 21  |  Friday, June 24 (11:59pm)  |
 | [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)         | June 29  |  Friday, July 1 (11:59pm)  |
 | [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)           | July 5   |  Friday, July 8 (11:59pm)   |
@@ -86,7 +86,7 @@ Students are expected to provide feedback concerning:
 | [5. Simple Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5?id=assignment)         | July 19  |  Friday, July 22 (11:59pm)  |
 | [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment)     | July 26  |  Friday, July 29 (11:59pm) |
 | [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7?id=assignment)| August 3 |  Not required     |
-=======
+
 Student performance will be evaluated on the basis of five homework assignments, two projects, and participation. Assignments will be graded according to the rubric of each assignment. In addition to the rubric, each assignment is expected to adhere to the below expectations for a project log and map elements.  Additionally the instructor will be evaluating map design, functionality, and that the student demonstrates an understanding of the content. 
 
 **Required Project Log Content**
