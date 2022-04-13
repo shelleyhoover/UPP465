@@ -1,7 +1,9 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 1
 
-<!-- Put a link to the slides so that students can find them -->
+Posted soon!
+
+<!-- 
 
 ➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week1.html#/)
 
@@ -62,4 +64,4 @@ Links to maps from the lecture
 26. [Rihanna Wildfire Map](https://www.bbc.com/news/blogs-trending-51020564)
 27. [Economist Missile Map](https://www.independent.com/2017/06/14/map-rap/)
 28. [Australia Fires USA Today](https://www.usatoday.com/story/news/world/2020/01/03/australia-fires-map-animals-evacuations/2803057001/) 
-29. [Australia Fires Time](https://time.com/5753584/bushfires-australia-catastrophic-fire-alert/)
+29. [Australia Fires Time](https://time.com/5753584/bushfires-australia-catastrophic-fire-alert/) -->

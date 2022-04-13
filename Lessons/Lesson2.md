@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 2
 
-➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week2.html#/)
+<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week2.html#/)
 
 
 ## Overview
@@ -69,3 +69,4 @@ You will be graded on the inclusion of the required deliverables above, as well 
 - [ESRI Cholera Training Map](https://learngis.maps.arcgis.com/home/webmap/viewer.html?webmap=6fb43b7db1d34716aad53583406f98b1) 
 - [Base Layer > Feature Layer Diagram](https://mangomap.com/gis-mapping) 
 
+ -->

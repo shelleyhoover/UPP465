@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 7
 
-## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week7.html)
+<!-- ## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week7.html)
 
 
 
@@ -51,3 +51,4 @@ how it all works together.
 - [Convert Shapefile to JSON (extra step to GeoJSON) in ArcDesktop - Video](https://www.youtube.com/watch?v=o1IrCJO6yM4)
 - [Convert Shapefile to GeoJSON in QGIS - Step by Step](https://gist.github.com/YKCzoli/b7f5ff0e0f641faba0f47fa5d16c4d8d)
 - [Convert Shapefile to GeoJSON in QGIS - Video](https://www.youtube.com/watch?v=K9648vyQEFM)
+ -->

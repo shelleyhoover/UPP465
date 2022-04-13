@@ -1,8 +1,8 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 4
 
-<!-- Put a link to the slides so that students can find them -->
 
+<!-- 
 ➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week4.html)
 
 
@@ -108,4 +108,4 @@ Your dashboard should have at least 4 elements:
 - [Hereford Mappamundi](https://www.themappamundi.co.uk/)
 - [Kangnido Map](https://en.wikipedia.org/wiki/Gangnido#/media/File:KangnidoMap.jpg)
 - [AT&T/Verizon](https://www.pcworld.com/article/181364/ATT_Sues_Verizon_Over_Theres_a_Map_for_That_Ads.html)
-- [Easily the best map ever, objectively. Nothing to do with Crowdsourcing](https://collections.lib.uwm.edu/digital/collection/agdm/id/7649)
+- [Easily the best map ever, objectively. Nothing to do with Crowdsourcing](https://collections.lib.uwm.edu/digital/collection/agdm/id/7649) -->

@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 5
 
-➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week5.html)
+<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week5.html)
 
 ## Assignment
 **Create a webpage with your AGOL map**
@@ -47,4 +47,4 @@ Document uploaded to blackboard including:
 ## Tutorials: 
 - [Set up Github Pages](https://pages.github.com/)
 - [W3 Schools - Build a Website](https://www.w3schools.com/howto/howto_website.asp)
-- [Coursera HTML, CSS, & JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [Coursera HTML, CSS, & JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) -->

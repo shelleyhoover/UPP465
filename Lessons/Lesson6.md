@@ -2,7 +2,7 @@
 # Week 6
 
 <!-- Put a link to the slides so that students can find them -->
-## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week6.html)
+<!-- ## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week6.html)
 
 
 ## Assignment
@@ -63,4 +63,4 @@ polygons.
 - [Leaflet Quickstart](https://leafletjs.com/examples/quick-start/)
 - [Collection of Basemap Layers](https://leaflet-extras.github.io/leaflet-providers/preview/)
 - [Leaflet Basemap Provider - copy link to paste into head](https://github.com/leaflet-extras/leaflet-providers)
-- [Style Icons](https://leafletjs.com/examples/custom-icons/)
+- [Style Icons](https://leafletjs.com/examples/custom-icons/) -->

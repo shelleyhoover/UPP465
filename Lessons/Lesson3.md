@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 3 - ArcGIS Online Applications
 
-<!-- Put a link to the slides so that students can find them -->
+<!-- 
 ➡️ [**Week 3 Lecture Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week3.html)
 
 
@@ -75,4 +75,4 @@ The applications will be scored on the inclusion of the above criteria, plus:
 
 - [Explanatory Text Example](https://www.researchgate.net/figure/Example-of-map-and-explanatory-information-to-illustrate-the-spatial-pattern-of_fig2_23660838)
 - [Figure Ground](http://www.u.arizona.edu/~kbailey/GEOG416A/module6.htm)
-- [Multiple Variable](https://vallandingham.me/multivariate_maps.html)
+- [Multiple Variable](https://vallandingham.me/multivariate_maps.html) --> -->
