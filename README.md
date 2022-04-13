@@ -20,11 +20,11 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 ## Schedule
 
-**Course Dates:** Wed. June 15 – Wed., August 3, 2021 (8 weeks)
+**Course Dates:** June 15 – August 3, 2021 (8 weeks)
 
 **Class Times:** Wednesdays 6:00pm–8:30pm 
 
-**Course Type:** Hybrid. Weeks 1-5 in-person (2201 AE Hall). Online arrangements for weeks 5-8 will be discussed Week 1.  
+**Course Type:** Hybrid. Weeks 1-5 in-person. Online arrangements for weeks 5-8 will be discussed Week 1.  
 
 | Class |          Date          |                 Topics                  |                 Location                 | 
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -53,7 +53,6 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 
 ## Evaluation
-<<<<<<< HEAD
 
 Student performance will be evaluated on the basis of seven assignments and class participation. Optional extra credit will be introduced in Week 4. 
 
@@ -61,7 +60,7 @@ Student performance will be evaluated on the basis of seven assignments and clas
 |:-----:          |:----------------------:|
 |  30 points      | Participation          |
 |  120 points     | Assignments            |    
-|  **150 points   | Total**                | 
+|  **150 points** | **Total**              | 
 |    10 points    | Extra Credit           |
 
 **Assignments**
