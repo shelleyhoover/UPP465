@@ -2,7 +2,7 @@
 # Week 6
 
 <!-- Put a link to the slides so that students can find them -->
-## [**Slides**](https://shelleyhoover.github.io/UPP4652021/Slides/revealjsSlides/week6.html)
+## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week6.html)
 
 
 ## Assignment

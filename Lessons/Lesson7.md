@@ -1,7 +1,11 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
-# Required Project Log and Map Elements 
+# Week 7
 
-## For every assignment & project, a detailed project log and map are required with the following information: 
+## [**Slides**](https://shelleyhoover.github.io/UPP4652022/Slides/week7.html)
+
+
+
+## Project 2
 
 **Adding & Manipulating GeoJSON Data with Leaflet & JavaScript**
 
@@ -27,7 +31,7 @@ how it all works together.
   - Tile Layer (Basemap)  
   - At least one GeoJSON file
   - GeoJSON styling should have a conditional element (if/else) 
-  	- If you add multiple GeoJSON files, only one file requires the conditional style.  
+    - If you add multiple GeoJSON files, only one file requires the conditional style.  
   - Add pop-ups for GeoJSON
 
 **Github Repository should have:**
