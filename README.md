@@ -20,11 +20,11 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 ## Schedule
 
-**Course Dates:** Wed. June 15 – Wed., August 3, 2021 (8 weeks)
+**Course Dates:** June 15 – August 3, 2021 (8 weeks)
 
 **Class Times:** Wednesdays 6:00pm–8:30pm 
 
-**Course Type:** Hybrid. Weeks 1-5 in-person (2201 AE Hall). Online arrangements for weeks 5-8 will be discussed Week 1.  
+**Course Type:** Hybrid. Weeks 1-5 in-person. Online arrangements for weeks 5-8 will be discussed Week 1.  
 
 | Class |          Date          |                 Topics                  |                 Location                 | 
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -53,7 +53,6 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 
 ## Evaluation
-<<<<<<< HEAD
 
 Student performance will be evaluated on the basis of seven assignments and class participation. Optional extra credit will be introduced in Week 4. 
 
@@ -61,7 +60,7 @@ Student performance will be evaluated on the basis of seven assignments and clas
 |:-----:          |:----------------------:|
 |  30 points      | Participation          |
 |  120 points     | Assignments            |    
-|  **150 points   | Total**                | 
+|  **150 points** | **Total**              | 
 |    10 points    | Extra Credit           |
 
 **Assignments**
@@ -79,7 +78,7 @@ Students are expected to provide feedback concerning:
 3. Who do you think this map is for? 
 
 |                        Assignment                         | Assignment Due Date | Blackboard Feedback Due Date   | 
-|:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|
+|:---------------------------------------------------------:|:-------------:|:------------:|
 | [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson2?id=assignment)          | June 21  |  Friday, June 24 (11:59pm)  |
 | [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)         | June 29  |  Friday, July 1 (11:59pm)  |
 | [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson3?id=assignment)           | July 5   |  Friday, July 8 (11:59pm)   |
@@ -87,7 +86,7 @@ Students are expected to provide feedback concerning:
 | [5. Simple Website](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson5?id=assignment)         | July 19  |  Friday, July 22 (11:59pm)  |
 | [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson6?id=assignment)     | July 26  |  Friday, July 29 (11:59pm) |
 | [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP4652021/#/Lessons/Lesson7?id=assignment)| August 3 |  Not required     |
-=======
+
 Student performance will be evaluated on the basis of five homework assignments, two projects, and participation. Assignments will be graded according to the rubric of each assignment. In addition to the rubric, each assignment is expected to adhere to the below expectations for a project log and map elements.  Additionally the instructor will be evaluating map design, functionality, and that the student demonstrates an understanding of the content. 
 
 **Required Project Log Content**
