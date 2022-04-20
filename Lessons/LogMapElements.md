@@ -1,9 +1,10 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 
 
-<!-- 
-# Required Assignment Information 
 
+# Required Assignment Information 
+Coming soon!
+<!-- 
 Assigments will be submitted to blackboard via a detailed project log and URL to your web map. In addition to assignment specific requirements, each submission expected to contain the below elements for their log and their map.  Additionally the instructor will be evaluating map functionality and that the student demonstrates an understanding of the content. 
 
 ## Required Project Log Content
