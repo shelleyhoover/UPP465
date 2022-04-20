@@ -13,7 +13,8 @@ The goal of this course is to enable students to build their own online maps usi
 We will also survey crowdsourced mapping tools such as Open Street Maps, as well as other propriety web mapping tools. While learning these tools, we will discuss current topics concerning online maps such as privacy, how maps can misrepresent information, or how they can effectively engage stakeholder groups.  
 
 **Course Instruction**: Shelley Hoover (shhoover@uicedu)
-**Course Office Hours**: Office hourse by request. 
+
+**Course Office Hours**: Office hours by request. 
 
 ## Prerequisites:  
 
