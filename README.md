@@ -34,14 +34,14 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 | Class |          Date          |                 Topics                  |                 Location                 | 
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Wed, June 15        |[Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1) | 2201 AE Hall |
-|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2) | 2201 AE Hall |
-|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3) | 2201 AE Hall |
-|  4 |  Wed, July 6         |[AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4) | 2201 AE Hall |
-|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5) | 2201 AE Hall |
-|  6 |  Wed, July 20        |[Create a web map with Leaflet](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6) | Arranged Online |
-|  7 |  Wed, July 27        |[Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7) | Arranged Online |
-|  8 |  Wed, August 3       |[Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson8)| Arranged Online |
+|  1 |  Wed, June 15        |[Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1) |  Synchronous Online |
+|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2) |  Synchronous Online |
+|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3) |  Synchronous Online |
+|  4 |  Wed, July 6         |[AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4) | Synchronous Online  |
+|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5) | Synchronous Online  |
+|  6 |  Wed, July 20        |[Create a web map with Leaflet](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6) | Asynchronous Online |
+|  7 |  Wed, July 27        |[Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7) | Asynchronous Online |
+|  8 |  Wed, August 3       |[Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson8)| Asynchronous Online |
 
 ## Assignments 
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
@@ -52,9 +52,9 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 | [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2?id=assignment)         | 15 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
 | [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3?id=assignment)           | 15 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
 | [4. AGOL Crowdsourcing App](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4?id=assignment) | 20 | Wed, July 6   |  Tues, July 12  | Friday, July 15  |
-| [5. Simple Website](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Friday, July 22  |
-| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Friday, July 29  |
-| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 (6pm) | Not required     |
+| [5. Simple Website](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Not required |
+| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Not required |
+| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 | Not required     |
 
 
 
