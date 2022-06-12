@@ -3,7 +3,7 @@
 
 Posted soon!
 
-<!-- 
+
 
 ➡️ [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week1.html#/)
 
@@ -11,15 +11,42 @@ Posted soon!
 ## Overview
 1. Introductions
 2. Course Overview
+3. Let's make sure everyone can login to AGOL[ArcGIS Online](https://univofillinois.maps.arcgis.com/)
 3. How to lie with maps
 
 ## Assignment
 
-Make sure you can login to [ArcGIS Online](https://univofillinois.maps.arcgis.com/)
+**ArcGIS Online Web Map**
 
-1. Be sure to select the UIC login
-2. Login using your UIC NetID
-3. Email me if you're unable to login before next week's class  
+**Due:** Tue, June 29 (11:59pm) 
+
+**Goal of the assignment:** Develop familiarity with ArcGIS Online basic functions, create and publish web map
+
+**Data:** 
+
+[Data available for download](https://github.com/shelleyhoover/UPP4652021/tree/master/Course%20Data)  
+
+You are not required to use all of the data included, nor are you limited to the data provided. The objective is to have enough variability for each student to explore the data and develop a map of interest.  Students are encouraged to use data from other courses/internships.  If the student would like help locating/formatting geographic data to complement other coursework, they should reach out to the instructor as soon as possible.  
+
+**Required Map Elements:**
+- Basemap
+- Title
+- At least two feature layers:
+   - Must be different vector types (ie: one point layer, one polygon layer. Not two point layers) 
+   - One layer that shows variation in quantity 
+   - One layer that shows variation in type
+  - At least one layer must have a pop-up 
+- Map Overview Page must include: 
+  - Description (What is the purpose of this map?)
+  - Credits/Attributions
+
+**Deliverables:** 
+-Document uploaded to Blackboard including: 
+  - URL to Map
+  - Screen shot of map/major features (in case AGOL crashes)
+
+**Grading:** 
+You will be graded on the inclusion of the required deliverables above, as well as general map legibility and design. Things I will be looking for: Pop-up labels should be easy to decipher, descriptive title, and layer order (ie - points usually should be on top of polygons.) 
 
 ## Additional Resources
 
@@ -64,4 +91,4 @@ Links to maps from the lecture
 26. [Rihanna Wildfire Map](https://www.bbc.com/news/blogs-trending-51020564)
 27. [Economist Missile Map](https://www.independent.com/2017/06/14/map-rap/)
 28. [Australia Fires USA Today](https://www.usatoday.com/story/news/world/2020/01/03/australia-fires-map-animals-evacuations/2803057001/) 
-29. [Australia Fires Time](https://time.com/5753584/bushfires-australia-catastrophic-fire-alert/) -->
+29. [Australia Fires Time](https://time.com/5753584/bushfires-australia-catastrophic-fire-alert/)
