@@ -60,7 +60,7 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 ## Evaluation
 
-Student performance will be evaluated on the basis of seven assignments and class participation. Optional extra credit will be introduced in Week 4. 
+Student performance will be evaluated on the basis of seven assignments and class participation (blackboard feedback). Optional extra credit will be introduced in Week 4. 
 
 |  Total          |                        |
 |:-----:          |:----------------------:|
