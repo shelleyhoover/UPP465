@@ -16,7 +16,7 @@ Posted soon!
 
 ## Assignment
 
-**ArcGIS Online Web Map**
+**Assignment 1: ArcGIS Online Web Map**
 
 **Due:** Tue, June 21 (11:59pm) 
 
@@ -41,9 +41,8 @@ You are not required to use all of the data included, nor are you limited to the
   - Credits/Attributions
 
 **Deliverables:** 
--Document uploaded to Blackboard including: 
-  - URL to Map
-  - Screen shot of map/major features (in case AGOL crashes)
+-Project Log submitted to Blackboard.  
+ 
 
 **Grading:** 
 You will be graded on the inclusion of the required deliverables above, as well as general map legibility and design. Things I will be looking for: Pop-up labels should be easy to decipher, descriptive title, and layer order (ie - points usually should be on top of polygons.) 
