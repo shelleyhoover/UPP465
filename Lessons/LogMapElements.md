@@ -9,12 +9,13 @@ Assigments will be submitted to blackboard via a detailed project log and URL to
 ## Required Project Log Content
 
 1. Project Objectives
-      - Assignments require students use a specific visualization method, but is not prescriptive in what is being visualized.  Students are expected to describe what they are visualizing in their project log and why.
+      - Assignments will require students to use a specific visualization method, but will not be prescriptive in what is being visualized.  Students are expected to describe what they are visualizing in their project log and why.
       - Example: "This project uses ArcGIS online to visually compare the City of Chicago's Hardship Index to the City of Chicago's Covid-19 Vulnerability Index". 
-      - Describe why you're doing it. "For policy makers to do x" or "For community members to do x" - It may be the same data, but these two stakeholder groups will need very different visualizations!  Note "Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but in fancy talk that would be "an exploratory comparison of x & y". This is a very important step in spatial analysis but requires a very different visualization!
+      - Describe why you're doing it. "For policy makers to do x" or "For community members to do x" - It may be the same data, but these two stakeholder groups might need very different visualizations!  
+            - Note "Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but use phrasing like "an exploratory comparison of x & y". This is a very important step in spatial analysis but requires a very different visualization!
 
 2. Data
-      - This course is focused on visualization methods. Students are encouraged to use data from other courses/jobs/internships, however prepared data will be available for students to complete assignments. While grading will not be focused on data preparation and cleaning, students are expected to adddress data preparation and sources in their project log. 
+      - This course is focused on visualization methods and grading will not be focused on data preparation and cleaning. However, students are expected to address data preparation and sources in their project log. 
       - Include what dataset, and where & when data was accessed (e.g. Chicago Supermarkets.csv, UPP465 Course Page, Accessed June 15, 2022 (with link to page & dataset). Ideally note original source as well). 
       - Geographic and Temporal Information of data (e.g. 1995 Chicago Heat Death Locations; US Census Tract Demographic information 5-year estimates 2014-2019) 
       - Any data cleaning or manipulation conducted. Describe what was done and what tools where used to complete cleaning (e.g. Excel, created new attribute column titled "Minority Population" by subtracting column "White, non-Hispanic" from "Total Population")  
@@ -22,7 +23,7 @@ Assigments will be submitted to blackboard via a detailed project log and URL to
       - Not required but strongly recommended: A good practice is to save an original, complete untouched copy of the data in your project folder. In your project log, describe where this original data is saved & where the data you're editing is saved so you can access it later.  
 
 3. Detail the visualization method
-      - I'm telling you what methods to use, so I know what methods you're going to be using! This section is mostly for future you. I often reference old project logs to remember how I did something. 
+      - This section is mostly for future you. I often reference old project logs to remember how I did something. 
       - Required: list what tool you're using (e.g. ArcGIS Online Web Map Builder Classic), and any additional templates/tools (Storybuilder Cascade Template)
       - Strongly Recommended: Note and/or take screenshots of the processes and steps you're using. 
       - There is no singular right way to do this, and what you include/detail will depend on what the future use of the log will be: 
@@ -35,13 +36,13 @@ Assigments will be submitted to blackboard via a detailed project log and URL to
 
 4. The final product
       - All of your assignments/projects will have a weblink.  Include the URL to your web map.
-      - Include a screenshot of the final map. This is for you incase AGOL/your computer/the world crashes. 
+      - Include a screenshot of the final map incase AGOL/your computer/the world crashes. 
       - Recommended: Screenshots of important features. This is for future you. Programs can change and your settings might break, it's good to remember what it did at one point and to identify what needs to be updated.  
 
 
 ## Required Map Elements
  
-Each homework assignment/project will contain at least one map. In addition to the specific requirements detailed on the rubric, all of them are required to include: 
+Each assignment will contain at least one map. In addition to the specific requirements detailed on the rubric, all of them are required to include: 
 
 1. Meaningful Title
       - Map title should decribe what is being visualized and generally include the topic, geography, and dates. Do not use map titles such as "UPP 465 HW 1"  
@@ -53,7 +54,7 @@ Each homework assignment/project will contain at least one map. In addition to t
 4. Understandable legend
       - Similar to pop-ups, do not leave the default labels. Make sure they are meaninful to the reader.  
 5. Simple, purposeful cartography
-      - Rule of thumb: less is more. It can be a lot of fun and extremely tempting to overload your map with data and features, but stick showing things that are critical to displaying the visual to your intended audience. No single map, even fancy interactive ones, can show everything. 
+      - Rule of thumb: less is more. It can be a lot of fun and extremely tempting to overload your map with data and features, but stick to showing things that are critical to displaying the visual to your intended audience. No single map, even fancy interactive ones, can show everything. 
 6. Descriptive Text
       - While your map should be mostly self-explanatory from the title, legend, and pop-ups alone, descriptive text is another critical element to a good map.  
            - For AGOL assignments: This will go on the map overview page. 

@@ -29,3 +29,4 @@
 - [PJ Mode Persuasive Maps Collection](https://digital.library.cornell.edu/?f%5Bcollection_tesim%5D%5B%5D=Persuasive+Maps%3A+PJ+Mode+Collection)
 - [Further Reading on Statistical Mapping Issues](https://gistbok.ucgis.org/bok-topics/statistical-mapping-enumeration-normalization-classification)
 - [Map Projection Tool](https://www.jasondavies.com/maps/transition/) 
+	
