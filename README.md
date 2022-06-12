@@ -6,14 +6,15 @@ template from: https://github.com/Make-School-Courses/Syllabus-Template -->
 Welcome to UPP465 - Web GIS! 
 
 ## Course Description
-Web GIS is a popular term commonly used to refer to "online maps". While professional definitions are usually much more technical, "online maps" is a good starting point.
+Web GIS is a popular term commonly used to refer to "online maps". While professional definitions are much more technical, "online maps" is a good starting point.
 
-The goal of this course is to enable students to build their own online maps using two popular tools: ArcGIS Online (AGOL) and Leaflet.js. Students will gain the technical knowledge to create interactive online maps while learning the principals of effective map design & visualizations.
+The goal of this course is to enable students to build their own online maps using two popular tools: ArcGIS Online (AGOL) and Leaflet.js. Students will gain the technical knowledge to create interactive online maps while learning the principals of effective map design & visualization.
 
-We will also survey crowdsourced mapping tools such as Open Street Maps, as well as other propriety web mapping tools. While learning these tools, we will discuss current topics concerning online maps such as privacy, how maps can misrepresent information, or how they can effectively engage stakeholder groups.  
+We will also survey crowdsourced mapping tools such as Open Street Maps and propriety web mapping tools. While learning these tools, we will discuss current topics concerning online maps such as privacy, how maps can misrepresent information, or how they can effectively engage stakeholder groups.  
 
-**Course Instruction**: Shelley Hoover (shhoover@uicedu)
-**Course Office Hours**: Office hourse by request. 
+**Course Instructor**: Shelley Hoover (shhoover@uicedu)
+
+**Course Office Hours**: Office hours by request. 
 
 ## Prerequisites:  
 
@@ -29,18 +30,18 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 **Class Times:** Wednesdays 6:00pm–8:30pm 
 
-**Course Type:** Hybrid. Weeks 1-5 in-person. Online arrangements for weeks 5-8 will be discussed Week 1.  
+**Course Type:** Online 
 
 | Class |          Date          |                 Topics                  |                 Location                 | 
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Wed, June 15        |[Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1) | 2201 AE Hall |
-|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2) | 2201 AE Hall |
-|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3) | 2201 AE Hall |
-|  4 |  Wed, July 6         |[AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4) | 2201 AE Hall |
-|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5) | 2201 AE Hall |
-|  6 |  Wed, July 20        |[Create a web map with Leaflet](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6) | Arranged Online |
-|  7 |  Wed, July 27        |[Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7) | Arranged Online |
-|  8 |  Wed, August 3       |[Final Presentations & Survey of Other Tools](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson8)| Arranged Online |
+|  1 |  Wed, June 15        |[Introduction to course & create your first web map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1) |  Synchronous Online |
+|  2 |  Wed, June 22        |[ AGOL- Web Mapping Applications - StoryMaps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2) |  Synchronous Online |
+|  3 |  Wed, June 29        |[AGOL- Web Mapping Applications - Web Apps](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3) |  Synchronous Online |
+|  4 |  Wed, July 6         |[AGOL & Humanitarian Street Maps - Crowdsourced Mapping](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4) | Synchronous Online  |
+|  5 |  Wed, July 13        |[HTML & CSS - Make a Webpage](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5) | Synchronous Online  |
+|  6 |  Wed, July 20        |[Create a web map with Leaflet](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6) | Asynchronous Online |
+|  7 |  Wed, July 27        |[Add interactivity to Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7) | Asynchronous Online |
+|  8 |  Wed, August 3       |[Survey of Other Tools](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson8)| Asynchronous Online |
 
 ## Assignments 
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
@@ -48,12 +49,12 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 |                        Assignment                         | Points | Date Assigned |   Due Date (11:59pm)  | Blackboard Feedback Due Date (11:59pm)   | 
 |:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|:-------------:|
 | [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson1?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21   | Friday, June 24  |
-| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2?id=assignment)         | 15 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
-| [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3?id=assignment)           | 15 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
+| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2?id=assignment)         | 20 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
+| [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3?id=assignment)           | 20 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
 | [4. AGOL Crowdsourcing App](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4?id=assignment) | 20 | Wed, July 6   |  Tues, July 12  | Friday, July 15  |
-| [5. Simple Website](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Friday, July 22  |
-| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Friday, July 29  |
-| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 (6pm) | Not required     |
+| [5. Simple Website](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Not required |
+| [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Not required |
+| [7. Interactive Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson7?id=assignment)| 20 | Wed, July 27  |  Wed, August 3 | Not required     |
 
 
 
@@ -63,8 +64,8 @@ Student performance will be evaluated on the basis of seven assignments and clas
 
 |  Total          |                        |
 |:-----:          |:----------------------:|
-|  30 points      | Participation          |
-|  120 points     | Assignments            |    
+|  20 points      | Participation          |
+|  130 points     | Assignments            |    
 |  **150 points** | **Total**              | 
 |    10 points    | Extra Credit           |
 
@@ -74,7 +75,7 @@ Assignments will be graded according to the rubric of each assignment, map desig
 
 **Course Participation**
 
-While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each in-person lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who participate in-lecture are not required to additionally provide feedback over blackboard.  
+While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each synchronous lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who participate in-lecture are not required to additionally provide feedback over blackboard.  
 
 Students are expected to provide feedback concerning: 
 
