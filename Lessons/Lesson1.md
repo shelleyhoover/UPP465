@@ -18,13 +18,13 @@ Posted soon!
 
 **ArcGIS Online Web Map**
 
-**Due:** Tue, June 29 (11:59pm) 
+**Due:** Tue, June 21 (11:59pm) 
 
 **Goal of the assignment:** Develop familiarity with ArcGIS Online basic functions, create and publish web map
 
 **Data:** 
 
-[Data available for download](https://github.com/shelleyhoover/UPP4652021/tree/master/Course%20Data)  
+[Data available for download](https://github.com/shelleyhoover/UPP465/tree/master/Course%20Data)  
 
 You are not required to use all of the data included, nor are you limited to the data provided. The objective is to have enough variability for each student to explore the data and develop a map of interest.  Students are encouraged to use data from other courses/internships.  If the student would like help locating/formatting geographic data to complement other coursework, they should reach out to the instructor as soon as possible.  
 
