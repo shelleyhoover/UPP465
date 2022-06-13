@@ -12,7 +12,7 @@ Assigments will be submitted to blackboard via a detailed project log and URL to
       - Assignments will require students to use a specific visualization method, but will not be prescriptive in what is being visualized.  Students are expected to describe what they are visualizing in their project log and why.
       - Example: "This project uses ArcGIS online to visually compare the City of Chicago's Hardship Index to the City of Chicago's Covid-19 Vulnerability Index". 
       - Describe why you're doing it. "For policy makers to do x" or "For community members to do x" - It may be the same data, but these two stakeholder groups might need very different visualizations!  
-            - Note "Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but use phrasing like "an exploratory comparison of x & y". This is a very important step in spatial analysis but requires a very different visualization!
+      - Note "Playing around" or "I was curious if..." is perfectly acceptable and also extremely important- but use phrasing like "an exploratory comparison of x & y". This is a very important step in spatial analysis but requires a very different visualization!
 
 2. Data
       - This course is focused on visualization methods and grading will not be focused on data preparation and cleaning. However, students are expected to address data preparation and sources in their project log. 
