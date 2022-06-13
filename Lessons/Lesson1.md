@@ -8,7 +8,7 @@
 ## Overview
 1. Introductions
 2. Course Overview
-3. Let's make sure everyone can login to AGOL[ArcGIS Online](https://univofillinois.maps.arcgis.com/)
+3. Let's make a web map
 3. How to lie with maps
 
 ## Assignment
@@ -44,9 +44,12 @@ You are not required to use all of the data included, nor are you limited to the
 **Grading:** 
 You will be graded on the inclusion of the required deliverables above, as well as general map legibility and design. Things I will be looking for: Pop-up labels should be easy to decipher, descriptive title, and layer order (ie - points usually should be on top of polygons.) 
 
-## Additional Resources
+## Links and Additional Resources
 
-1. [How to Lie with Maps](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm) 
+1. [University of Illinois ArcGIS Online Login](https://univofillinois.maps.arcgis.com/)
+2. [Create a Web Map in ArcGIS Online (Beginner)](https://learn.arcgis.com/en/projects/create-a-map-in-arcgis-online/quick-exercise-maps.htm) 
+3. [Course Data](https://github.com/shelleyhoover/UPP465)
+<!-- 1. [How to Lie with Maps](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm) 
 2. [Modifiable Areal Unit Problem](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem)
 3. [Further Reading on Statistical Mapping Issues](https://gistbok.ucgis.org/bok-topics/statistical-mapping-enumeration-normalization-classification)
 4. [Coursera Course on Map Data Classification](https://www.coursera.org/lecture/gis-mapping-spatial-analysis-capstone/data-classification-for-mapping-7aU7l)
@@ -55,7 +58,7 @@ You will be graded on the inclusion of the required deliverables above, as well 
 7. [Map Projection Tool](https://www.jasondavies.com/maps/transition/) 
 8. [CDC Classifying Data Tool](https://www.cdc.gov/dhdsp/maps/gisx/resources/classifying-data.html)
 9. [Nice Article on Viral Maps](http://www.slate.com/articles/arts/culturebox/2014/04/viral_maps_the_problem_with_all_those_fun_maps_of_the_u_s_plus_some_fun.html?map=4&gsex=1)
-10. [Understanding Geodesic Buffering](https://www.esri.com/news/arcuser/0111/geodesic.html) 
+10. [Understanding Geodesic Buffering](https://www.esri.com/news/arcuser/0111/geodesic.html)  -->
 
 ## Lecture Maps
 Links to maps from the lecture
