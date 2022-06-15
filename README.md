@@ -67,7 +67,7 @@ Student performance will be evaluated on the basis of seven assignments and clas
 |  20 points      | Participation          |
 |  130 points     | Assignments            |    
 |  **150 points** | **Total**              | 
-|    10 points    | Extra Credit           |
+|    25 points    | Extra Credit           |
 
 **Assignments**
 
@@ -75,7 +75,7 @@ Assignments will be graded according to the rubric of each assignment, map desig
 
 **Course Participation**
 
-While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each synchronous lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who participate in-lecture are not required to additionally provide feedback over blackboard.  
+While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each synchronous lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who ~participate~ in-lecture are not required to additionally provide feedback over blackboard.  
 
 Students are expected to provide feedback concerning: 
 
