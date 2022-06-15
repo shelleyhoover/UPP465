@@ -2,7 +2,7 @@
 # Week 1
 
 
-➡️ [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week1.html#/)
+# [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week1.html#/)
 
 
 ## Overview
