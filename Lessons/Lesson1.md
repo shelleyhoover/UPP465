@@ -8,8 +8,8 @@
 ## Overview
 1. Introductions
 2. Course Overview
-3. Let's make a web map
-3. How to lie with maps
+3. Lecture
+3. AGOL Demonstration
 
 ## Assignment
 
