@@ -6,12 +6,18 @@
 - [GIS Stackexchage](https://gis.stackexchange.com/)
 - [Symbolizing Features](https://mgimond.github.io/Spatial/symbolizing-features.html) 
 
+## Sources for Data
+- [Course Data](https://github.com/shelleyhoover/UPP465)
+- [Chicago Health Atlas](https://chicagohealthatlas.org/)
+- [City of Chicago Data Portal](https://data.cityofchicago.org/)
+
 ## ArcGIS Online Reference Pages: 
+- [University of Illinois ArcGIS Online Login](https://univofillinois.maps.arcgis.com/)
+- [Create a Web Map in ArcGIS Online (Beginner)](https://learn.arcgis.com/en/projects/create-a-map-in-arcgis-online/quick-exercise-maps.htm) 
 
-
-## HTML, CSS, and JavaScript References: 
-
-## Tutorials:
+<!-- ## HTML, CSS, and JavaScript References: 
+ -->
+## HTML, CSS, & JS Tutorials:
 - [CodeAcademy HTML & CSS](https://www.codecademy.com/catalog/language/html-css) 
 - [CodeAcademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 
 
