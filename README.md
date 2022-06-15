@@ -48,9 +48,9 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 
 |                        Assignment                         | Points | Date Assigned |   Due Date (11:59pm)  | Blackboard Feedback Due Date (11:59pm)   | 
 |:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|:-------------:|
-| [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson1?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21   | Friday, June 24  |
-| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson2?id=assignment)         | 20 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
-| [3. AGOL Web App](https://shelleyhoover.github.io/UPP4652022/#/Lessons/Lesson3?id=assignment)           | 20 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
+| [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21   | Friday, June 24  |
+| [2. AGOL Story Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2?id=assignment)         | 20 | Wed, June 22  |  Tue, June 29   | Friday, July 1   |
+| [3. AGOL Web App](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3?id=assignment)           | 20 | Wed, June 29  |  Tue, July 5    | Friday, July 8   |
 | [4. AGOL Crowdsourcing App](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson4?id=assignment) | 20 | Wed, July 6   |  Tues, July 12  | Friday, July 15  |
 | [5. Simple Website](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson5?id=assignment)         | 15 | Wed, July 13  | Tues, July 19   | Not required |
 | [6. Static Leaflet Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson6?id=assignment)     | 20 | Wed, July 20  |  Tues, July 26  | Not required |
