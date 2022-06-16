@@ -30,8 +30,8 @@ You are not required to use all of the data included, nor are you limited to the
 - Title
 - At least two feature layers:
    - Must be different vector types (ie: one point layer, one polygon layer. Not two point layers) 
-   - One layer that shows variation in quantity 
-   - One layer that shows variation in type
+   - ~One layer that shows variation in quantity~  (not required)
+   - ~One layer that shows variation in type~ (not required)
   - At least one layer must have a pop-up 
 - Map Overview Page must include: 
   - Description (What is the purpose of this map?)
