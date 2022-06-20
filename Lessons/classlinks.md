@@ -3,8 +3,8 @@
 
 ## Cartographic Design Resources: 
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-- [GIS Stackexchage](https://gis.stackexchange.com/)
 - [Symbolizing Features](https://mgimond.github.io/Spatial/symbolizing-features.html) 
+- [Color Palette Helper](https://vis4.net/palettes/#/9|d|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 
 ## Sources for Data
 - [Course Data](https://github.com/shelleyhoover/UPP465)
@@ -26,6 +26,8 @@
 - [Understanding Geodesic Buffering](https://www.esri.com/news/arcuser/0111/geodesic.html) 
 - [Coursera Course on Map Data Classification](https://www.coursera.org/lecture/gis-mapping-spatial-analysis-capstone/data-classification-for-mapping-7aU7l)
 - [CDC Classifying Data Tool](https://www.cdc.gov/dhdsp/maps/gisx/resources/classifying-data.html)
+- [GIS Stackexchage](https://gis.stackexchange.com/)
+
 
 ## GIS Communities
 - [University Consortium for GIS](https://www.ucgis.org/)
