@@ -7,6 +7,27 @@
 ## Overview
 
 ## Assignment
+**AGOL Web App & Story Map**
+
+**Due: Tue, June 28th (11:59pm)** Submit Project Log to Blackboard
+
+**Overview of the assignment:** Students will create an AGOL Story Map 
+
+1. StoryMap: Students can choose to use either a configured StoryMap template or use Storybuilder
+   - Configured Story Map: From web map information page click Create Web App > Configurable Apps > StoryMap. 
+   - StoryBuilder: storymaps.arcgis.com    
+
+**Deliverable:** Project log with URLs to story map, including the following information: 
+
+  - In the project log, explain which template (i.e. StoryBuilder Quick Start) you chose, or why you chose to build from “scratch”. (Brief, 1-2 sentences)
+     - Story Map must include: 
+   1. At least one web map 
+   2. At least one immersive section. For the purposes of this homework, “immersive section” includes: 
+      - If using StoryBuilder from scratch, use Block Palette Immersive Section options: Slideshow, SideCacar, and Map tour 
+      - If using StoryBuilder Quickstart, Sidecar, Guided map tour, and explorer map tour works. 
+      - If using configurable apps: Cascade Template uses an immersive section, Story Builder uses SideCar. You should be able to add immersive sections in the other configurable apps, but your options might be limited.   
+     3. Have some narrative text (1-2 paragraphs) 
+   4. At least one additional media content (image, video, etc) 
 
 **ArcGIS Online Web Map**
 
