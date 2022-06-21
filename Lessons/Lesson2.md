@@ -4,7 +4,7 @@
 ## [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week2.html#/)
 
 
-## Overview
+
 
 ## Assignment
 **AGOL Web App & Story Map**
@@ -22,7 +22,7 @@
   - In the project log, explain which template (i.e. StoryBuilder Quick Start) you chose, or why you chose to build from “scratch”. (Brief, 1-2 sentences)
      - Story Map must include: 
    1. At least one web map 
-   2. At least one immersive section. For the purposes of this homework, “immersive section” includes: 
+   2. At least one "immersive section". For the purposes of this homework, “immersive section” includes: 
       - If using StoryBuilder from scratch, use Block Palette Immersive Section options: Slideshow, SideCacar, and Map tour 
       - If using StoryBuilder Quickstart, Sidecar, Guided map tour, and explorer map tour works. 
       - If using configurable apps: Cascade Template uses an immersive section, Story Builder uses SideCar. You should be able to add immersive sections in the other configurable apps, but your options might be limited.   
@@ -35,21 +35,16 @@
 
 **Goal of the assignment:**  
 
-## Additional Resources
+## Links
+- [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- [StoryMaps Classics (being phased out)](https://storymaps-classic.arcgis.com/)
+- [StoryMaps Tutoral](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
 - [Color Considerations (and generally a good resource)](https://mgimond.github.io/Spatial/symbolizing-features.html)
-- [Introduction to Geospatial Resources and Formats](https://www.loc.gov/preservation/digital/formats/content/gis_intro.shtml)
-- [ESRI Cholera Map Tutorial](https://downloads.esri.com/learnarcgis/educators/creating-a-basic-story-map.pdf)
-- [Change basemap projection in AGOL](https://learn.arcgis.com/en/projects/make-a-web-map-without-web-mercator/)
-- [List of vector/raster formats](https://gisgeography.com/gis-formats/)
-- [List of Geospatial Data Formats](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml)
-- [Long list of 1990’s Web Mapping Companies + Screenshots to enjoy](https://www.slideshare.net/stevenfeldman/history-of-web-mapping)
-- [Nice overview of Web GIS history](https://www.smithsonianmag.com/history/unlikely-history-origins-modern-maps-180951617/) 
 - [Use ACS Data from AGOL Living Atlas](https://www.arcgis.com/apps/Cascade/index.html?appid=c6a35a434a8f4913b9c35022290efdd0) 
-- [Data.gov](https://catalog.data.gov/dataset) 
-- [USGS Data](https://apps.nationalmap.gov/services/) 
 
 
-## Maps from the Lecture
+
+<!-- ## Maps from the Lecture
 - [Imago Mundi](https://www.smithsonianmag.com/travel/where-see-some-worlds-oldest-maps-180963855/)
 - [Barbari’s Bird’s Eye View of Venice](https://www.jstor.org/stable/1483541?origin=crossref) 
 - [Mercator’s 1569 World Map](https://en.wikipedia.org/wiki/Mercator_1569_world_map)
@@ -64,4 +59,4 @@
 - [Tile Zoom Level 2](https://towardsdatascience.com/displaying-geographic-information-using-custom-map-tiles-c0e3344909a4) 
 - [ESRI Cholera Training Map](https://learngis.maps.arcgis.com/home/webmap/viewer.html?webmap=6fb43b7db1d34716aad53583406f98b1) 
 - [Base Layer > Feature Layer Diagram](https://mangomap.com/gis-mapping) 
-
+ -->
