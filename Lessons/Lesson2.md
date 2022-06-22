@@ -25,7 +25,7 @@
    2. At least one "immersive section". For the purposes of this homework, “immersive section” includes: 
       - If using StoryBuilder from scratch, use Block Palette Immersive Section options: Slideshow, SideCacar, and Map tour 
       - If using StoryBuilder Quickstart, Sidecar, Guided map tour, and explorer map tour works. 
-      - If using configurable apps: Cascade Template uses an immersive section, Story Builder uses SideCar. You should be able to add immersive sections in the other configurable apps, but your options might be limited.   
+      - If using configurable apps (templates being phased out): Cascade Template uses an immersive section, Story Builder uses SideCar. You should be able to add immersive sections in the other configurable apps, but your options might be limited.   
      3. Have some narrative text (1-2 paragraphs) 
    4. At least one additional media content (image, video, etc) 
 
@@ -39,6 +39,9 @@
 - [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [StoryMaps Classics (being phased out)](https://storymaps-classic.arcgis.com/)
 - [StoryMaps Tutoral](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+- [StoryMaps Side Car Tutorial](https://learn.arcgis.com/en/projects/build-a-sidecar-in-your-story/)
+- [StoryMaps Slideshow Tutorial](https://storymaps.arcgis.com/collections/a21747b075c446eb930677a0b82c4a35)
+- [StoryMaps Guided Tour Tutorial](https://storymaps.arcgis.com/stories/f11e22d3cf314a638520e9bcbb84d0ca)
 - [Color Considerations (and generally a good resource)](https://mgimond.github.io/Spatial/symbolizing-features.html)
 - [Use ACS Data from AGOL Living Atlas](https://www.arcgis.com/apps/Cascade/index.html?appid=c6a35a434a8f4913b9c35022290efdd0) 
 
