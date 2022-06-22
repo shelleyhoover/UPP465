@@ -7,14 +7,14 @@
 
 
 ## Assignment
-**AGOL Web App & Story Map**
+**AGOL Story Map**
 
 **Due: Tue, June 28th (11:59pm)** Submit Project Log to Blackboard
 
 **Overview of the assignment:** Students will create an AGOL Story Map 
 
 1. StoryMap: Students can choose to use either a configured StoryMap template or use Storybuilder
-   - Configured Story Map: From web map information page click Create Web App > Configurable Apps > StoryMap. 
+   - Configured Story Map (being phased out): From web map information page click Create Web App > Configurable Apps > StoryMap. Or use the link [here](https://storymaps-classic.arcgis.com/) 
    - StoryBuilder: storymaps.arcgis.com    
 
 **Deliverable:** Project log with URLs to story map, including the following information: 
@@ -33,7 +33,6 @@
 
 **Due:** Tue, June 28 (11:59pm) 
 
-**Goal of the assignment:**  
 
 ## Links
 - [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
