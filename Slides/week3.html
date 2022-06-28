@@ -37,6 +37,150 @@
 
 
 
+			<section>
+				<p> First: basemaps v. feature layer maps</p>
+			</section>
+
+			<section>
+				<section data-background-iframe="https://learngis.maps.arcgis.com/home/webmap/viewer.html?webmap=6fb43b7db1d34716aad53583406f98b1" data-background-interactive></section>
+			</section>
+
+			<section>
+				<img src="pictures/Week2/layerdiagram.png"> 
+			</section>
+
+					<section>
+						<p style = "font-size: 48px"> A little history </p>
+					</section>
+
+					<section>
+					<p> 1990s: Interactive maps hit the web </p>
+							<img src="pictures/Week2/mapquestcirca2005.jpg" height = 600px> 
+						
+					</section>
+
+					<section>
+						<p> Mid-2000s: Google maps and the map revolution </p>
+							<img src="pictures/Week2/googlemaps2005.png">
+					</section>
+				</section>
+
+		<section>
+					<p> What was so revolutionary about google maps? </p>
+					<p> The Slippy Map! </p>
+			</section>
+
+			<section>
+				<section data-background-iframe="https://xserver2.cloud.ptvgroup.com/dashboard/Content/TechnicalConcepts/Rendering/ShowTileOverlays.shtm" data-background-interactive></section>
+			</section>
+
+			<section>
+					<h3> AKA - Tiled Maps</h3>
+					<img src="pictures/Week2/tilepyramid2.png">
+			</section>
+
+			<section>
+				<img src="pictures/Week2/TilePyramid.jpg" height = "700">
+			</section>
+
+			<section>
+				<img src="pictures/Week2/tiledmap3.png"> 
+			</section>
+
+			<section>
+				<img src="pictures/Week2/mercator2.png"> 
+				<p style = "font-size: 16px"> Mercator Projection</p>
+			</section>
+
+			<section>
+				<p> Most web maps have a base map with a (web) Mercator projection </p>
+				<p style = "font-size: 16px"><a href = "https://learn.arcgis.com/en/projects/make-a-web-map-without-web-mercator/" target="_blank">We will not go over changing base map projections in this course, but if you'd like to here is a good tutorial for AGOL</a>
+			</section>
+
+
+<!-- Data Types -->
+
+			<section>
+				<p> There are two primary spatial data types used in GIS:</p>
+					<ul>
+						<li>Raster</li>
+						<li>Vector</li>
+					</ul>
+			</section>
+
+			<section>
+				<img src="pictures/Week2/rastervector.png"> 
+			</section>
+
+
+			<section>
+					<ul>
+						<li>Not always, but for the sake of simplicity, basemaps are usually rasters and feature layers are usually vectors.</li>
+						<li>We are concerned with manipulating and adding feature layers in this course.</li>
+					</ul>
+			</section>
+
+
+
+			<section>
+				<p> Common Vector Data Types</p>
+					<ul>
+						<li>Esri Shapefile</li>
+						<li>Geographic JavaScript Object Notation (GeoJSON)</li>
+						<li>Google Keyhole Markup Language (KML/KMZ)</li>
+						<li>OpenStreetMap OSM XML</li>
+					</ul>
+				<p> <a href = "https://gisgeography.com/gis-formats/"> A more comprehensive list if you're curious </a> </p>
+			</section>
+
+			<section>
+				<p> Vectors are composed of:</p>
+					<ul>	
+						<li>Points</li>
+						<li>Lines</li>
+						<li>Polygons</li>
+					</ul>
+			</section>
+
+			<section>
+				<p> Points, lines, and polygons represent the geometry type</p>
+				<p> Additional attributes are recorded for each feature </p>
+			</section>
+
+
+			<section>
+				<p>Attribute types</p>
+					<ul>
+						<li>Integer:</li>
+							<ul>
+								<li>non-fractional numbers </li>
+								<li>0,1,2,8009, etc</li>
+							</ul>
+						<li>Real: </li>
+							<ul>
+								<li>fractional numbers</li>
+								<li> 0.13, 2.5, 3.0, etc</li>
+							</ul>
+						<li>String: </li>
+							<ul>
+								<li> a “string” of characters</li>
+								<li>“My dog is barking”, “0134”, “I have 17 dogs”</li>
+							</ul>
+					</ul>
+			</section>
+
+			<section>
+				<img src="pictures/Week2/attributetypes.png">
+			</section>
+
+			<section>
+				<p> Note that numerical values can be stored as strings</p>
+			</section>
+
+			<section>
+				<img src="pictures/Week2/attributetypesstring.png">
+			</section>
+
 
 <!-- AGOL WEB APPS -->
 
