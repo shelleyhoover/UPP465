@@ -5,6 +5,8 @@
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [Symbolizing Features](https://mgimond.github.io/Spatial/symbolizing-features.html) 
 - [Color Palette Helper](https://vis4.net/palettes/#/9|d|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
+- [Map Design Principals](https://www.esri.com/news/arcuser/0112/files/design-principles.pdf)
+- [Text on Maps Guide](https://www.e-education.psu.edu/geog486/node/644)
 
 ## Sources for Data
 - [Course Data](https://github.com/shelleyhoover/UPP465)
@@ -38,3 +40,4 @@
 - [Further Reading on Statistical Mapping Issues](https://gistbok.ucgis.org/bok-topics/statistical-mapping-enumeration-normalization-classification)
 - [Map Projection Tool](https://www.jasondavies.com/maps/transition/) 
 	
+
