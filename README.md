@@ -73,9 +73,9 @@ Student performance will be evaluated on the basis of seven assignments and ~~cl
 
 Assignments will be graded according to the rubric of each assignment, map design, functionality, and that the student demonstrates an understanding of the content. Additionally, each assignment is expected to adhere to the following expectations for a project log and map elements.  [**Required Project Log and Map Elements**](https://shelleyhoover.github.io/UPP465/#/Lessons/LogMapElements)
 
-~~**Course Participation**
+~~**Course Participation**~~
 
-~~While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each synchronous lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who **participate** in-lecture are not required to additionally provide feedback over blackboard.  
+~~While students are encouraged to attend lectures, there is no attendance requirement. However, students are expected to provide feedback on each other's assignments. Receiving and giving feedback helps students understand how map visualizations are perceived better than instructor feedback alone. Each synchronous lecture will begin with a short feedback session on maps, however if students are not in attendance they are expected to provide feedback via blackboard.  Students who **participate** in-lecture are not required to additionally provide feedback over blackboard.~~  
 
 
 ## Late Policy
