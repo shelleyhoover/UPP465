@@ -47,7 +47,7 @@ The pace of this course is fast.  Because many of the lessons build upon previou
 [**Submit assignments to Blackboard**](https://uic.blackboard.com/ultra/course)  
 
 |                        Assignment                         | Points | Date Assigned |   Due Date (11:59pm)  |   
-|:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|:-------------:|
+|:---------------------------------------------------------:|:-------------:|:------------:|:-------------:|
 | [1. AGOL Web Map ](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson1?id=assignment)          | 15 | Wed, June 15  |  Tue, June 21   |  
 | [2. AGOL Story Map](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson2?id=assignment)         | 20 | Wed, June 22  |  Tue, June 29   | 
 | [3. AGOL Web App](https://shelleyhoover.github.io/UPP465/#/Lessons/Lesson3?id=assignment)           | 20 | Wed, June 29  |  Tue, July 5    | 
@@ -64,7 +64,7 @@ Student performance will be evaluated on the basis of seven assignments and clas
 
 |  Total          |                        |
 |:-----:          |:----------------------:|
-|  ~~20 points      | Participation~~    |
+|  ~~20 points~~      | ~~Participation~~    |
 |  130 points     | Assignments            |    
 |  **130 points** | **Total**              | 
 |    10 points    | Extra Credit           |

@@ -11,11 +11,11 @@
 
 **Due: Tue, July 5th (11:59pm)** Submit Project Log to Blackboard
 
-**Overview of the assignment:** Students will create an AGOL Application
+**Overview of the assignment:** Create an AGOL Application
 
 Students can choose to use a Configured App or use the Web App Builder
    - Configurable app: From web map overview page click Create Web App > Configurable App 
-   - Web App Builder: From web map overview page click Create Web App > Web App Builder. 
+   - Web App Builder: From web map overview page click Create Web App > Web App Builder 
 
 **Deliverable:** Project log with URLs to application, including the following information: 
 
@@ -28,6 +28,8 @@ Web App:
 
 
 ## Links & Resources
+- [Step by step App Builder Guide](https://uofi.box.com/s/sfs07iwwic0s7fqf5xza49hbv6qlgxgr)  
+
 - [List of AGOL Widgets](https://doc.arcgis.com/en/web-appbuilder/create-apps/widget-about.htm) 
 - [Widget Overview]( https://doc.arcgis.com/en/web-appbuilder/create-apps/widget-overview.htm) 
 
