@@ -67,7 +67,7 @@ Student performance will be evaluated on the basis of seven assignments and ~~cl
 |  ~~20 points~~      | ~~Participation~~    |
 |  130 points     | Assignments            |    
 |  **130 points** | **Total**              | 
-|    10 points    | Extra Credit           |
+|    20 points    | Extra Credit           |
 
 **Assignments**
 
