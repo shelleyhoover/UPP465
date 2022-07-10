@@ -1,14 +1,14 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 5
 
-<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week5.html)
+<!-- ➡️ [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week5.html) -->
 
 ## Assignment
 **Create a webpage with your AGOL map**
 
-The objective of this assignment is to use HTML & CSS to create a simple webpage to display your AGOL map. The structure of this webpage will be used to display the leaflet map you will be creating in Homework 4 & Project 1. 
+The objective of this assignment is to use HTML & CSS to create a simple webpage and display your AGOL map. The structure of this webpage will be used to display the leaflet map you will be creating in Homework 4 & Project 1. 
 
-**Due:  July 20, 11:59pm**
+**Due:  July 19, 11:59pm**
 
 Deliverables: 
 Document uploaded to blackboard including: 
@@ -47,4 +47,4 @@ Document uploaded to blackboard including:
 ## Tutorials: 
 - [Set up Github Pages](https://pages.github.com/)
 - [W3 Schools - Build a Website](https://www.w3schools.com/howto/howto_website.asp)
-- [Coursera HTML, CSS, & JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) -->
+- [Coursera HTML, CSS, & JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
