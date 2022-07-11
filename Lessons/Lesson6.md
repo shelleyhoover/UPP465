@@ -1,15 +1,15 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Week 6
 
-<!-- Put a link to the slides so that students can find them -->
-<!-- ## [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week6.html)
+
+## [**Slides**](https://shelleyhoover.github.io/UPP465/Slides/week6.html)
 
 
 ## Assignment
 
 **Add a Leaflet Map to your Webpage**
 
-**Due:  July 27, 11:59pm**
+**Due:  July 26, 11:59pm**
 
 **Objective:** 
 - Use JavaScript and Leaflet.js to add a map with some basic geometry (points, lines, and
@@ -63,4 +63,4 @@ polygons.
 - [Leaflet Quickstart](https://leafletjs.com/examples/quick-start/)
 - [Collection of Basemap Layers](https://leaflet-extras.github.io/leaflet-providers/preview/)
 - [Leaflet Basemap Provider - copy link to paste into head](https://github.com/leaflet-extras/leaflet-providers)
-- [Style Icons](https://leafletjs.com/examples/custom-icons/) -->
+- [Style Icons](https://leafletjs.com/examples/custom-icons/)

@@ -9,7 +9,7 @@
 
 **Adding & Manipulating GeoJSON Data with Leaflet & JavaScript**
 
-**Due:  August 4, 6pm**
+**Due:  August 3, 6pm**
 
 **Objective:** 
 - Continue working with Leaflet & JavaScript by adding & manipulating GeoJSON data.  Final product will be a detailed, interactive Leaflet map.  
@@ -19,7 +19,6 @@ from my file to yours. Take the time to rewrite the code and make it your own, i
 how it all works together.
 
 **Deliverables:** 
-- 2-minute overview of your map during Week 8's Class
 - Document uploaded to blackboard including: 
   - Link to github webpage  [Example](https://shelleyhoover.github.io/upp465example/)
   - Link to github project repository [Example](https://github.com/shelleyhoover/upp465example)
