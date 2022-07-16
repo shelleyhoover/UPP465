@@ -51,7 +51,7 @@ polygons.
 - CSS File
 
 ## JavaScript Reference
-- [Create JSON Objects](http://geojson.io/#map=7/39.555/-89.000)
+- [Create GeoJSON Objects](http://geojson.io/#map=2/20.0/0.0)
 - [JavaScript Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics- )
 - [Define Variables in JavaScript](https://www.w3schools.com/js/js_variables.asp- ) 
